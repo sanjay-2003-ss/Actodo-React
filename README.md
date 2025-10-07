@@ -94,6 +94,6 @@ src/
 
 ## 🌐 Live Demo
 
-Check out the app here: [actodo-react-pearl.vercel.app](https://actodo-react-pearl.vercel.app)
+Check out the app here: https://actodo-react-pearl.vercel.app
 
 
