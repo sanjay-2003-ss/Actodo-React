@@ -3,6 +3,10 @@
 Actodo is a lightweight and interactive **To-Do management app** built using **React + Vite**.  
 It helps users organize daily tasks efficiently, with a clean interface and basic authentication flow.
 
+
+## 🌐 Live Demo
+
+Check out the app here: https://actodo-react-pearl.vercel.app
 ## 🚀 Features  
 
 ### ✅ Core Functionality  
@@ -92,8 +96,5 @@ src/
 ├── App.jsx
 └── main.jsx
 
-## 🌐 Live Demo
-
-Check out the app here: https://actodo-react-pearl.vercel.app
 
 
